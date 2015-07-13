@@ -1,0 +1,7 @@
+.cabal-sandbox/
+Main.js_hi
+Main.js_o
+Main.jsexe/
+cabal.sandbox.config
+fragnix-client.sublime-project
+fragnix-client.sublime-workspace
